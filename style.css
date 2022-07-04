@@ -1,0 +1,42 @@
+body {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin: 0%;
+}
+
+h2 {
+    color: rgb(46, 46, 122);
+}
+
+
+
+p {
+    font-size: medium;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 8%;
+    padding-top: 4%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 204, 255), purple);
+    color: whitesmoke;
+    font-weight: 700;
+    padding: 5px 40px;
+    border-radius: 50px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
