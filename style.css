@@ -1,4 +1,6 @@
 body {
+    font-family: 'Arvo', serif;
+
     font-family: 'Yanone Kaffeesatz', sans-serif;
     margin: 0%;
 }
@@ -13,7 +15,7 @@ p {
     font-size: medium;
 }
 
-section {
+.flexible {
     display: flex;
     margin-bottom: 100px;
 }
@@ -46,4 +48,21 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experience {
+    width: 50%;
+    padding-left: 8%;
+    padding-top: 4%;
+
+
+}
+
+.certification {
+    width: 50%;
+    padding-right: 40%;
+    padding-top: 4%;
+    padding-left: 30%;
+
+
 }
