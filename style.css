@@ -1,6 +1,4 @@
 body {
-    font-family: 'Arvo', serif;
-
     font-family: 'Yanone Kaffeesatz', sans-serif;
     margin: 0%;
 }
@@ -65,4 +63,8 @@ p {
     padding-left: 30%;
 
 
+}
+
+footer {
+    text-align: center;
 }
